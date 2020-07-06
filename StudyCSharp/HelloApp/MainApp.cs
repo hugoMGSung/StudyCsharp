@@ -8,7 +8,7 @@ namespace HelloApp
     /// <summary>
     /// 기본 클래스
     /// </summary>
-    class Program
+    class MainApp
     {
         /// <summary>
         /// 엔트리포인트 메서드

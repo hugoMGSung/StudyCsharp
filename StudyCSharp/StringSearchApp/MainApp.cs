@@ -4,7 +4,7 @@ using static System.Console;
 
 namespace StringSearchApp
 {
-    class Program
+    class MainApp
     {
         static void Main(string[] args)
         {

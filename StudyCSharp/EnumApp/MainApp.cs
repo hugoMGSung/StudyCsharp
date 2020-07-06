@@ -2,7 +2,7 @@
 
 namespace EnumApp
 {
-    class Program
+    class MainApp
     {
         enum DialogResult
         {
