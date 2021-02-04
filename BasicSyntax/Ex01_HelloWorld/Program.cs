@@ -1,0 +1,10 @@
+﻿namespace Ex01_HelloWorld
+{
+    class Program
+    {
+        static void Main()
+        {
+            System.Console.WriteLine("Hello, world!");
+        }
+    }
+}
